@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9029d246688551d6b54c205464f27fa8.js"
+  "/precache-manifest.bbdda5cf73bf3700fb1d99ca1104bf36.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mitt-projekt"});
